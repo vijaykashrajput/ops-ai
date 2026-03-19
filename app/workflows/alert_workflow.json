@@ -1,0 +1,8 @@
+{
+  "workflow": "alert",
+  "steps": [
+    "MonitorAgent",
+    "DebugAgent",
+    "FixAgent"
+  ]
+}
